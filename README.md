@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Estudante técnico em Informática no IFRN - Campus Pau dos Ferros 🎓 | Dedicado ao estudo de lógica de programação, construção de sistemas e registro da minha evolução acadêmica 🚀📂.</p>
+<p data-importer="text" align="left">Estudante técnico em Informática no IFRN - Campus Pau dos Ferros 🎓 | Dedicado ao estudo de lógica de programação, construção de sistemas e registro da minha evolução acadêmica.</p>
 
 ###
 
